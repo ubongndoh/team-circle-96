@@ -99,6 +99,7 @@ h1 {
 
 .input-div {
     display: flex;
+  flex-direction:column ;
     justify-content: center;
     align-items: center;
     padding: 5px 30px;
