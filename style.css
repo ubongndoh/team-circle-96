@@ -59,10 +59,6 @@ nav a:link,
     color: #2755aa;
 }
 
-nav a:hover,
-:active {
-    color: rgb(68, 155, 236);
-}
 
 
 /* End Of Head Style */
@@ -122,6 +118,7 @@ h1 {
 
 .btn {
     padding: 10px 30px;
+  margin:20px 50px;
     background: rgb(0, 0, 0);
     border-radius: 5px;
     border: none;
