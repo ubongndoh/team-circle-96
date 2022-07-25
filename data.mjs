@@ -12,9 +12,9 @@ let data = {
   //glo
   "0805": "glo.svg",
   "0807": "glo.svg",
-  "08011": "glo.svg",
+  "0811": "glo.svg",
   "0705": "glo.svg",
-  "08015": "glo.svg",
+  "0815": "glo.svg",
   "0905": "glo.svg",
   //airtel
   "0802": "airtel.svg",
