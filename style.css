@@ -71,7 +71,7 @@ nav a:link,
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 70px;
+    padding: 50px;
     gap: 20px;
     background: #ffffff;
     box-shadow: 8px 8px 8px rgb(0 0 0 / 5%);
@@ -99,12 +99,27 @@ h1 {
 
 .input-div {
     display: flex;
-  flex-direction:column ;
+    flex-direction:row ;
     justify-content: center;
     align-items: center;
-    padding: 5px 30px;
+    padding: 10px 20px;
+    margin:0 auto;
 }
-
+.message{
+  display: flex;
+  width: 40px;
+  height: 40px;
+  padding: 5px 5px;
+  margin-top: 10px;
+}
+.message img{
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 5px 5px;
+  margin-top: -10px;
+}
 .container input {
     text-align: center;
     display: flex;
@@ -115,13 +130,15 @@ h1 {
     border: 1px solid rgb(0, 0, 0);
     /* color: black; */
     border-radius: 10px;
+    margin:0 auto;
 }
 
+
 .btn {
-    padding: 10px 30px;
-  margin:20px 50px;
+    padding: 10px 60px;
+    margin:0 auto;
     background: rgb(0, 0, 0);
-    border-radius: 5px;
+    border-radius: 50px;
     border: none;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     font-style: normal;
