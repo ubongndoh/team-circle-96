@@ -1,14 +1,14 @@
 let data = {
   //mtn
-  "0703": "mtn.svg",
-  "0803": "mtn.svg",
-  "0806": "mtn.svg",
-  "0706": "mtn.svg",
-  "0810": "mtn.svg",
-  "0813": "mtn.svg",
-  "0816": "mtn.svg",
-  "0916": "mtn.svg",
-  "0903": "mtn.svg",
+  "0703": "MTN.svg",
+  "0803": "MTN.svg",
+  "0806": "MTN.svg",
+  "0706": "MTN.svg",
+  "0810": "MTN.svg",
+  "0813": "MTN.svg",
+  "0816": "MTN.svg",
+  "0916": "MTN.svg",
+  "0903": "MTN.svg",
   //glo
   "0805": "glo.svg",
   "0807": "glo.svg",

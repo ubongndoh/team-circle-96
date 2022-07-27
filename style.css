@@ -105,20 +105,14 @@ h1 {
     padding: 10px 20px;
     margin:0 auto;
 }
-.message{
-  display: flex;
-  width: 40px;
-  height: 40px;
-  padding: 5px 5px;
-  margin-top: 10px;
-}
+
 .message img{
   display: flex;
   justify-content: center;
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
   padding: 5px 5px;
-  margin-top: -10px;
+/*   margin-top: -10px; */
 }
 .container input {
     text-align: center;
@@ -138,7 +132,7 @@ h1 {
     padding: 10px 60px;
     margin:0 auto;
     background: rgb(0, 0, 0);
-    border-radius: 50px;
+    border-radius: 10px;
     border: none;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     font-style: normal;
@@ -150,3 +144,6 @@ h1 {
 .btn.btn:hover{
   color: #888991;
 }
+
+/* Responsiveness */
+

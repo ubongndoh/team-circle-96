@@ -31,7 +31,7 @@ function startApp() {
       if (x.startsWith(item)) {
         message.innerHTML = `<img src=${num[item]} alt='logo'>`;
 
-      }
+      } 
 
     }
 
